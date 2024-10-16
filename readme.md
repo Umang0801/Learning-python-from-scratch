@@ -4,19 +4,8 @@ Welcome to the **Learning Python from Scratch** repository! This repository cont
 
 ## Table of Contents
 
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Programs](#programs)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Features
-
-- Basic Python syntax and programming concepts
-- Practical exercises and examples
-- Well-commented code for easy understanding
 
 ## Installation
 
