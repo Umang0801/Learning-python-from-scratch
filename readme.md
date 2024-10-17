@@ -26,7 +26,7 @@ git clone https://github.com/Umang0801/Learning-python-from-scratch.git
 ### Day_2
 - Simple Calculator using a module(helper.py)
 - Find the common numbers from the list of numbers
-- Find the largest number fromthe given list
+- Find the largest number from the given list
 - Rock Paper Scissors game(r_p_s.py)
 - To-Do list manager
 - Library management (Modules: Books.py, Members.py)
