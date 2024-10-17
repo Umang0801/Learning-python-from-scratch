@@ -1,1 +1,1 @@
-## This folder contains the program I made on Day 2
+## This folder contains the programs I made on Day 2
